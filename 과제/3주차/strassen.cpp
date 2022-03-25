@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <vector>
 
@@ -214,3 +215,4 @@ void mmult(int n, vector<vector<int>>& a, vector<vector<int>>& b, vector < vecto
         }
     }
 }
+*/
