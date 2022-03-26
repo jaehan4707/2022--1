@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <string>
 #include <vector>
@@ -189,3 +190,4 @@ void prod(vector<int>& u, vector<int>& v, vector<int>& r) //
         ladd(t8, t7, r);           // t8+t7를 r에 저장
     }
 }
+*/

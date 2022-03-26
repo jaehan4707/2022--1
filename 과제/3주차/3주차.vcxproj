@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="largeint.cpp" />
     <ClCompile Include="strassen.cpp" />
+    <ClCompile Include="tromion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
