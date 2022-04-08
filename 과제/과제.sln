@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3주차", "3주차\3주차.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4주차", "4주차\4주차.vcxproj", "{1D7FD71A-9471-4294-BC7E-2161CAC5E01E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5주차", "5주차\5주차.vcxproj", "{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{1D7FD71A-9471-4294-BC7E-2161CAC5E01E}.Release|x64.Build.0 = Release|x64
 		{1D7FD71A-9471-4294-BC7E-2161CAC5E01E}.Release|x86.ActiveCfg = Release|Win32
 		{1D7FD71A-9471-4294-BC7E-2161CAC5E01E}.Release|x86.Build.0 = Release|Win32
+		{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}.Debug|x64.ActiveCfg = Debug|x64
+		{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}.Debug|x64.Build.0 = Debug|x64
+		{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}.Debug|x86.Build.0 = Debug|Win32
+		{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}.Release|x64.ActiveCfg = Release|x64
+		{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}.Release|x64.Build.0 = Release|x64
+		{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}.Release|x86.ActiveCfg = Release|Win32
+		{B25CCB10-057B-4D9E-8B3A-549EB44FCA3F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
