@@ -1,6 +1,8 @@
-﻿  최적이진트리.cpp
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최적이진트리.cpp(87,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최적이진트리.cpp(89,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최적이진트리.cpp(96,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최적이진트리.cpp(98,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  최장공통부분서열.cpp
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최장공통부분서열.cpp(23,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최장공통부분서열.cpp(25,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최장공통부분서열.cpp(31,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최장공통부분서열.cpp(33,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최장공통부분서열.cpp(47,23): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\5주차\최장공통부분서열.cpp(49,27): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
   5주차.vcxproj -> C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\Debug\5주차.exe
