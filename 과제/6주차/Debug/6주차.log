@@ -1,0 +1,8 @@
+﻿  크루스칼(mst).cpp
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\6주차\크루스칼(mst).cpp(54,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\6주차\크루스칼(mst).cpp(57,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\6주차\크루스칼(mst).cpp(29,18): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\6주차\크루스칼(mst).cpp(29,15): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\6주차\크루스칼(mst).cpp(29,21): warning C4101: 'w' :참조되지 않은 지역 변수입니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\6주차\크루스칼(mst).cpp(87,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  6주차.vcxproj -> C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\Debug\6주차.exe
