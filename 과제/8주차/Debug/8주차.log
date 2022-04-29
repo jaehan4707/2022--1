@@ -1,0 +1,8 @@
+﻿  소스.cpp
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\소스.cpp(20,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Schedule' 왼쪽은 무시됩니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\소스.cpp(56,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\소스.cpp(61,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\소스.cpp(63,9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\소스.cpp(79,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\소스.cpp(90,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  8주차.vcxproj -> C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\Debug\8주차.exe

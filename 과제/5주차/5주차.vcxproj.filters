@@ -18,5 +18,11 @@
     <ClCompile Include="최장공통부분서열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="연쇄행렬곱셈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="최적이진트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
