@@ -5,6 +5,7 @@ deadline 스케쥴링 문제
 각각의 job에는 deadline이 존재한다. deadline안에 해야 그 job은 유효하다.
 deadline을 넘어선 시간대에 job을 선택하면 그것은 impossible하다.
 */
+/*
 #include <iostream>
 #include <vector>
 
@@ -43,12 +44,6 @@ int main()
 			}
 		}
 	}
-	/*
-	for (int i = 1; i <= n; i++)
-	{
-		cout << s[i].profit << " " << s[i].deadline << "\n";
-	}
-	*/
 	schedule(n, s, j, k);
 	int sum = 0;
 	for (int i = 1; i < j.size(); i++)
@@ -92,3 +87,4 @@ bool is_feasible(vector<int>& k, Schedule* s)
 	}
 	return true;
 }
+*/

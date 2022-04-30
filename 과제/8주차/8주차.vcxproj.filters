@@ -18,5 +18,8 @@
     <ClCompile Include="Scheduling.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Knapsack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
