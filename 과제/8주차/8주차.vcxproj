@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="huffman.cpp" />
     <ClCompile Include="Knapsack.cpp" />
     <ClCompile Include="Scheduling.cpp" />
   </ItemGroup>

@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <vector>
 
@@ -88,7 +89,7 @@ void knapsack(vector<bag>&b,int &maxprofit,int &totweight,bag *c)
 		{
 			c[i].profit = (lim - totweight) * b[i].perweight;
 			c[i].weight = (lim - totweight);
-			if(c[i].profit!=0 && c[i].weight!=0)
+			if (c[i].profit != 0 && c[i].weight != 0)
 				bagvector.push_back(c[i]);
 			maxprofit += (lim - totweight) * b[i].perweight;
 			totweight += (lim - totweight);
@@ -96,3 +97,4 @@ void knapsack(vector<bag>&b,int &maxprofit,int &totweight,bag *c)
 		}
 	}
 }
+*/
