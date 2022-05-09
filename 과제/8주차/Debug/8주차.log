@@ -1,8 +1,8 @@
 ﻿  huffman.cpp
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(66,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(71,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(86,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(91,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(143,25): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(150,32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(68,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(72,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(86,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(91,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(145,28): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\8주차\huffman.cpp(152,44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   8주차.vcxproj -> C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\Debug\8주차.exe
