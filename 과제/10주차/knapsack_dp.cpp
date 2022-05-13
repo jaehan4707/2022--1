@@ -7,8 +7,6 @@
 6 P[i][w]의 값은 P[i-1][w] (담지 않은경우) Vs P[i-1][w-w[i]] + P[i]를 비교해야한다. 조건은 w[i]가 w보다 작거나 같아야 한다. 
 7. n==0 혹은 W=0이 되었을때 중단하면 된다. n=0이라는 뜻은 이제 더이상 보석을 담을 수가 없다는 뜻이고 w=0이면 가방이 꽉 찼다는 뜻이다.
 */
-
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
