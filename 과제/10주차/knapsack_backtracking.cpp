@@ -5,7 +5,6 @@
 4. 모든 노드를 방문하는 DFS방식으로 문제를 풀이할예정
 5. weight(현재 담은 무게)와 W(가방의 용량)을 비교하면서 가지치기
 6. Bound와 Maxprofit을 설정해서 Bound(기대되는 이득?)이 Maxprofit보다 작으면 굳이 탐색할 필요가 없음. 가지치기
-*/
 
 #include <iostream>
 #include <vector>
@@ -116,3 +115,4 @@ bool promising(int i, int Profit, int Weight,int &bound) //Profit은 내가 지금 담
 			return false;//bound가 maxprofit보다 클때 promising 가능.
 	}
 }
+*/

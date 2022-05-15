@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="knapsack_backtracking.cpp" />
     <ClCompile Include="knapsack_dp.cpp" />
+    <ClCompile Include="knight_travel.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
