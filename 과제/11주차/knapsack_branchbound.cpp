@@ -5,6 +5,8 @@ branch&Bound를 이용한 0-1 Knapsack problem
 유망한것은? Bound값이 높은것.
 Prority queue를 이용함. Bound값을 기준으로 내림차순 정렬
 */
+
+/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -161,3 +163,4 @@ void print_node(node_p u)
 {
     cout << u->level << " " << u->weight << " " << u->profit << " " << u->bound << endl;
 }
+*/

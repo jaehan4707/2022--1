@@ -5,6 +5,8 @@
 여행경로의 하한은 이미 뽑힌 값은 제외하고 그 출발지에 따른 bound값이다.
 출발지에서 부터 하나씩 방문해서 bound값이 가장 작고 아래까지 탐색을 안한 것ㅂ ㅜ터 탐색함.
 */
+
+/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -146,14 +148,6 @@ void travel2(vector<int>& opttour, int& minlength)
     {
         b = pq.top();
         pq.pop();
-        /*
-        cout<<b->level<<" "<<b->bound<<endl;
-        for(int i=0; i<b->path.size();i++)
-        {
-            cout<<b->path[i]<<" ";
-        }
-        cout<<endl;
-        */
         if (b->bound < minlength)
         {
             // a->level = b->level + 1; // a를 b의 자식노드로 놓음.
@@ -287,3 +281,4 @@ node_pointer create_node(int Level, vector<int>& path)
     node_pointer temp = (node_pointer)malloc(sizeof(node) * G);
     return temp;
 }
+*/

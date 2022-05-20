@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="knapsack_branchbound.cpp" />
     <ClCompile Include="TSP_brand.cpp" />
+    <ClCompile Include="TSP_DP.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
