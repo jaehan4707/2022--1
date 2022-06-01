@@ -5,8 +5,6 @@
 여행경로의 하한은 이미 뽑힌 값은 제외하고 그 출발지에 따른 bound값이다.
 출발지에서 부터 하나씩 방문해서 bound값이 가장 작고 아래까지 탐색을 안한 것ㅂ ㅜ터 탐색함.
 */
-
-/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -85,7 +83,7 @@ int Bound(node_pointer V)
     int lower = length(V->path);
     for (int i = 1; i <= G; i++)
     {
-        if (hasOutgoing(i, V->path))
+        if (hasOutgoing(i, V->path)) //i 가 v->apth에 있는지 없는지 체크해서 true면 continue false면 진행
             continue;
         int min = INF;
         for (int j = 1; j <= G; j++)
@@ -103,7 +101,7 @@ int Bound(node_pointer V)
     }
     return lower;
 }
-bool hasOutgoing(int v, vector<int>& path)
+bool hasOutgoing(int v, vector<int>& path)  //경로가 있다면 ture 경로가 없다면 false가 반환됨.
 {
     vector<int>::iterator it;
     for (it = path.begin(); it != path.end() - 1; it++)
@@ -125,13 +123,13 @@ void travel2(vector<int>& opttour, int& minlength)
 {
     priority_queue<node_pointer, vector<node_pointer>, cmp> pq; // path,bound값으로 나눠야함.
     node_pointer a, b;
-    a = (node_pointer)malloc(sizeof(nodetype));
-    b = (node_pointer)malloc(sizeof(nodetype));
+    a = (node_pointer)malloc(sizeof(node));
+    b = (node_pointer)malloc(sizeof(node));
 
     minlength = INF;
     b->level = 0;
 
-    b->path.push_back(1);
+    b->path.push_back(1); //왜 오류나지
     b->bound = Bound(b);
 
     cout << b->level << " " << b->bound << " ";
@@ -281,4 +279,3 @@ node_pointer create_node(int Level, vector<int>& path)
     node_pointer temp = (node_pointer)malloc(sizeof(node) * G);
     return temp;
 }
-*/

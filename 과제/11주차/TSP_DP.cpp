@@ -7,6 +7,8 @@ W배열은 각각의 정점에서 다른 정점으로 가는 경로의 길이. 없을 시 INF로 무한대를 �
 만약 A가 공집합이라면 그냥 그 정점에서 1까지 가는 경로를 구하면됨.
 D[vi][A]=W[i][j]+D[vj][A-{vj}]를 j가 증가시켜주면됨. 이때 j는 A에속해야한다.
 */
+
+/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -140,3 +142,4 @@ void tour(int v, int A, vector<vector<int>>& P)
         tour(k, diff(A, k), P);
     }
 }
+*/

@@ -26,13 +26,11 @@ int main()
 	cin >> n >> m; //n은 row, m은 col
 	Size = n * m-1;
 	visit.resize(n * m);
-	Visit.resize(n * m);
+	//Visit.resize(n * m);
 	graph.resize(n*m, vector<int>(m*n, 0));
-	//knight()함수 실행하고 해밀턴회로의 수를 뽑고.
-	
 	for (int i = 0; i <= Size; i++)
 	{
-		Move(i); //idx에 넣어줌.
+		Move(i); //
 	}
 	knight(0,0,0,0);
 	visit.resize(n * m, 0);
