@@ -141,6 +141,9 @@
   <ItemGroup>
     <None Include="1037.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1978.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
