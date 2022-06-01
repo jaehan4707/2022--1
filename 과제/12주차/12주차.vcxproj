@@ -142,6 +142,7 @@
     <None Include="1037.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1929.cpp" />
     <ClCompile Include="1978.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
