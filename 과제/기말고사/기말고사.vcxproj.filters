@@ -33,5 +33,8 @@
     <ClCompile Include="TSP_branch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="홀수피라미드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
