@@ -25,7 +25,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11주차", "11주차\11주�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12주차", "12주차\12주차.vcxproj", "{540A8C5B-C09A-4729-86E3-8D1B8DD64909}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "기말고사", "..\기말고사\기말고사.vcxproj", "{BB805DA2-5FF9-470D-A56E-531B3103C162}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "기말고사", "기말고사\기말고사.vcxproj", "{BB805DA2-5FF9-470D-A56E-531B3103C162}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

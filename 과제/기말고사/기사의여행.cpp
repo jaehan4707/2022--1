@@ -9,6 +9,7 @@
 8.각 정점마다 갈 수 있는 수는
 */
 //해밀턴회로만 신경쓰자.
+/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -43,15 +44,6 @@ int main()
 		int s = row * m + col;
 		cnt = 0; Cnt = 0;
 		board.assign(n, vector<int>(m, -1)); //이거 왜 초기화 안되냐?
-		/*
-		for (int i = 0; i < n; i++)
-		{
-			for (int j = 0; j < m; j++)
-			{
-				board[i][j] = -1;
-			}
-		}
-		*/
 		board[row][col] = 1;
 		knight(row, col, s, 0);
 		if (i < T - 1)
@@ -101,3 +93,4 @@ void knight(int x, int y, int start,int i) //출발점을 좌표화 해야함. start의 가 
 		}
 	}
 }
+*/
