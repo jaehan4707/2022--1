@@ -6,6 +6,7 @@
 출발지에서 부터 하나씩 방문해서 bound값이 가장 작고 아래까지 탐색을 안한 것ㅂ ㅜ터 탐색함.
 */
 
+/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -269,3 +270,4 @@ void print(node_pointer a)
     }
     cout << endl;
 }
+*/

@@ -144,6 +144,7 @@
     <ClCompile Include="데드라일스케쥴링.cpp" />
     <ClCompile Include="배낭(backtracking).cpp" />
     <ClCompile Include="배낭dp.cpp" />
+    <ClCompile Include="어려운소인수분해.cpp" />
     <ClCompile Include="허프만.cpp" />
     <ClCompile Include="홀수피라미드.cpp" />
   </ItemGroup>

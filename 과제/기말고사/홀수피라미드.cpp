@@ -10,6 +10,8 @@ n층은 1+2*(n-1)개의 사다리가 나올것이다.
 
 왼쪽 오른쪽 숫자 출력.
 */
+
+/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -42,3 +44,4 @@ int main()
         cout << "#" << i << " " << left << " " << right << endl;
     }
 }
+*/
