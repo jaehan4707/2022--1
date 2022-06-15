@@ -39,5 +39,14 @@
     <ClCompile Include="어려운소인수분해.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="콜라츠.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8_6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

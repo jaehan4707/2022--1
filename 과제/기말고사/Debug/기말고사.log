@@ -1,2 +1,2 @@
-﻿  어려운소인수분해.cpp
-  기말고사.vcxproj -> C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\Debug\기말고사.exe
+﻿소스.obj : error LNK2005: _main이(가) 8_6.obj에 이미 정의되어 있습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\Debug\기말고사.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

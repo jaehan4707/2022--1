@@ -1,0 +1,8 @@
+﻿  소스.cpp
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\기말고사족보\소스.cpp(81,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\기말고사족보\소스.cpp(85,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\기말고사족보\소스.cpp(99,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\기말고사족보\소스.cpp(104,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\기말고사족보\소스.cpp(159,28): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\기말고사족보\소스.cpp(166,44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  기말고사족보.vcxproj -> C:\Users\이재한\Desktop\이재한\2022.1학기\알고리즘\과제\과제\Debug\기말고사족보.exe
