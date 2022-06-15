@@ -19,6 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="deadline.cpp" />
+    <ClCompile Include="knapsack_branch.cpp" />
+    <ClCompile Include="기사의여행.cpp" />
+    <ClCompile Include="부분집합의 합.cpp" />
+    <ClCompile Include="콜라츠.cpp" />
     <ClCompile Include="허프만.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
