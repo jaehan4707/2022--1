@@ -26,6 +26,9 @@
     <ClCompile Include="콜라츠.cpp" />
     <ClCompile Include="허프만.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="이론.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
